@@ -1,0 +1,266 @@
+[
+    {
+      "_id": "64527e76db39283afc7a1ac3",
+      "chef_name": "Jorge Vallejo",
+      "chef_bio": "Chef Jorge Vallejo grew up and studied culinary arts in Mexico City before setting sail on the cruise ships to cook and see the world. Returning to Mexico, he worked for Enrique Olvera at Pujol, usually hailed as the best restaurant in Mexico. He later went on to work for the Grupo Habita Hotel Group. They own Hotel Condesa DF, one of the best hotels in Mexico City, Hotel Escondido, one of the best hotels in Puerto Escondido, Escondido Oaxaca, one of the best boutique hotels in Oaxaca, and many others.",
+      "chef_img": "https://i.ibb.co/FXnYHKR/71281972-111371233419318-3613249190356459558-n.jpg",
+      "experiences": 5,
+      "number_of_recipe": 6,
+      "likes": 779,
+      "recipe": [
+        {
+          "id": 1,
+          "recipe_name": "Sesame beef with gochujang udon noodles",
+          "ing_1": "400g skirt beef steak",
+          "ing_2": "400g udon noodles",
+          "ing_3": "50g unsalted butter, chopped",
+          "ing_4": "150g mixed Asian mushrooms, sliced",
+          "ing_5": "1/4 cup gochujang (Korean fermented chilli paste)",
+          "cooking_method": "Place the skirt steak on a large oven tray, season with salt flakes and drizzle with the sesame oil. Leave steak to stand at room temperature for 30 minutes or until the fridge chill has gone.Cook the udon noodles according to packet instructions, reserving 1 cup (250ml) of noodle water.Heat a lightly greased barbecue or chargrill pan over high heat. Grill the steak for 3-4 minutes on each side until cooked to your liking. Remove from the heat and rest, loosely covered with foil, for 10-12 minutes.",
+          "rating": 4.2
+        },
+        {
+          "id": 2,
+          "recipe_name": "Pipis in spicy lemongrass tomato broth",
+          "ing_1": "1/3 cup (80ml) vegetable oil",
+          "ing_2": "4 garlic cloves, thinly sliced",
+          "ing_3": "1 lemongrass stalk, halved and bruised",
+          "ing_4": "2 kaffir lime leaves",
+          "ing_5": "5cm piece (25g) ginger, thinly sliced",
+          "cooking_method": "Heat oil in a wok over high heat. Add eschalot, garlic, lemongrass, lime leaves, ginger, galangal, coriander stems and chilli, and cook for 5-6 minutes or until caramelised and fragrant. Add fish sauce, sambal oelek and tomatoes, and cook for 6-8 minutes until softened and juicy. Add the pipis, cover with a lid and cook for 6-7 minutes until the pipis have opened. Discard any unopened pipis. Serve topped with extra chilli, coriander leaves and lime wedges.",
+          "rating": 3.8
+        },
+        {
+          "id": 3,
+          "recipe_name": "Taleggio sourdough salad with simple salsa verde",
+          "ing_1": "1 sourdough loaf, cut on an angle into 1cm-thick slices",
+          "ing_2": "2 tbs olive oil",
+          "ing_3": "1 garlic clove, halved",
+          "ing_4": "100g Taleggio (from delis – substitute brie), rind removed, thickly sliced",
+          "ing_5": "1 bunch asparagus, trimmed, halved lengthways, blanched, refreshed",
+          "cooking_method": "For the simple salsa verde, place all ingredients and 1/2 tsp salt flakes in a food processor and whiz until smooth. Set aside.Heat the oven grill to high heat. Rub sourdough slices with oil and place on a large baking tray. Grill, checking often, for 90 seconds each side or until golden. Rub toasted sourdough with cut side of garlic. Return sourdough to tray, placing some slices on their sides and some lying flat. Arrange Taleggio on top. Grill, checking often, for 1-2 minutes or until cheese has melted.",
+          "rating": 3.6
+        }
+      ]
+    },
+    {
+      "_id": "64527e76260f36d116e0a706",
+      "chef_name": "Margarita Carrillo Arronte",
+      "chef_bio": "There is no way to quickly sum up the meteoric career of Chef Margarita Carrillo Arronte. She’s a chef, an author, a student, a teacher, TV personality, and goodwill ambassador of the Mexican kitchen to foreign dignitaries. She studied education at UNAM Mexico City, culinary arts at the Culinary Institute of the Americas, and Le Cordon Bleu. She loved teaching so much she never left the campus, only moving from student to teacher.",
+      "chef_img": "https://i.ibb.co/cbCfbzq/51942543-546890362495200-8015921018099664132-n.jpg",
+      "experiences": 10,
+      "number_of_recipe": 6,
+      "likes": "1K",
+      "recipe": [
+        {
+          "id": 1,
+          "recipe_name": "Spicy chorizo enchiladas",
+          "ing_1": "1 tbs olive oil",
+          "ing_2": "1 onion, finely chopped",
+          "ing_3": "3 garlic cloves, finely chopped",
+          "ing_4": "1 carrot, finely chopped",
+          "ing_5": "1 celery stalk, finely chopped",
+          "cooking_method": "To make the omelettes, whisk eggs and chickpea flour in a bowl with 1/2 cup (125ml) water and 1 tsp salt until smooth. Set aside for 10 minutes to thicken slightly.Line a baking tray with baking paper.Heat 1 tsp oil in a 22cm non-stick frypan over medium heat. Add 1/3 cup (80ml) batter, swirling to coat pan and form a very thin pancake. Cook for 2-3 minutes on one side, then turn out onto prepared tray. Repeat with remaining oil and batter to make six pancakes. Set aside until needed.",
+          "rating": 4.2
+        },
+        {
+          "id": 2,
+          "recipe_name": "Taco rice with grilled chicken and green chilli salsa",
+          "ing_1": "2 tbs finely chopped chipotle chillies in adobo sauce",
+          "ing_2": "1 tbs white vinegar",
+          "ing_3": "4 chicken thigh fillets (skin on)",
+          "ing_4": "1 tbs olive oil",
+          "ing_5": "2 garlic cloves, thinly sliced",
+          "cooking_method": "To marinate chicken, combine the chipotle, vinegar and chicken in a bowl. Cover and refrigerate for at least 4 hours or overnight.For the green chilli salsa, using a mortar and pestle, pound chillies, garlic and a pinch of salt to a coarse paste. Add vinegar, lime juice and sugar, and stir to combine. Set aside.To make the rice, heat the oil in a heavy-based saucepan over low heat. Add garlic and cook, stirring occasionally, for 3 minutes or until softened. Stir in rice, milk and stock. Increase heat to high and bring to the boil.",
+          "rating": 3.7
+        },
+        {
+          "id": 3,
+          "recipe_name": "Darren Robertson's chicken tacos with charred corn",
+          "ing_1": "600g skinless chicken thigh fillets, thickly sliced",
+          "ing_2": "Plain flour, to dust",
+          "ing_3": "12 small soft tortillas, warmed",
+          "ing_4": "1 avocado, cut into 1cm-thick slices",
+          "ing_5": "Pickled jalapenos, lime cheeks and hot sauces, to serve",
+          "cooking_method": "For the marinade, place all ingredients in a small food processor and whiz to a coarse paste. Stir through 1 tsp salt flakes and a pinch of ground black pepper. Combine marinade and chicken in a bowl, cover and chill for 2 hours or overnight to marinate.For the pineapple salsa, heat a chargrill pan or barbecue to high heat. Rub oil into pineapple and corn, and grill, turning, for 15-20 minutes or until charred. Set aside to cool. Once cool enough to handle, chop pineapple into 1cm pieces and cut kernels from cob, then combine in a bowl with remaining ingredients. Set aside.",
+          "rating": 3.5
+        }
+      ]
+    },
+    {
+      "_id": "64527e7667422db6785735c6",
+      "chef_name": "Alejandro Ruiz Olmedo",
+      "chef_bio": "Chef Alejandro Ruíz Olmedo is a pillar of Oaxacan community cooking. Besides his food, Olmedo is known for researching and publishing cookbooks about his home state of Oaxaca, Mexico (pronounced waa-haa-kah).Casa Oaxaca Hotel & Restaurant opened in 1997 and continues to win awards every year for the food (especially their authentic Oaxaca mole), the design, and the service without fail.",
+      "chef_img": "https://i.ibb.co/PCCSKw4/294251550-768298811020677-6991914158591446335-n.jpg",
+      "experiences": 6,
+      "number_of_recipe": 4,
+      "likes": 256,
+      "recipe": [
+        {
+          "id": 1,
+          "recipe_name": "Slow-cooked chicken with brown rice and avocado",
+          "ing_1": "1 tbs olive oil",
+          "ing_2": "1 whole chicken, quartered (use kitchen scissors or poultry shears to do this)",
+          "ing_3": "1 onion, chopped",
+          "ing_4": "1 bunch coriander, leaves picked, roots cleaned and chopped",
+          "ing_5": "4 garlic cloves, peeled",
+          "cooking_method": "Heat the oil in a large saucepan over medium-high heat and season chicken with salt. Cook chicken pieces, skin-side down, for 6 minutes or until skin is golden. Turn, then cook for a further 4 minutes or until golden. Remove from pan and set aside.Add the onion, coriander root and garlic to the same pan and cook, stirring, for 5 minutes or until softened. Add dried oregano, spices and tomato paste, and cook, stirring, for 2 minutes or until fragrant. Add tomato and stir to coat, then add stock and bring to the boil.",
+          "rating": 3.8
+        },
+        {
+          "id": 2,
+          "recipe_name": "Tacos de Carne Asada",
+          "ing_1": "2 x 400g rib-eye steaks (bone in), at room temperature",
+          "ing_2": "8 white corn tortillas",
+          "ing_3": "1/2 cup shredded iceberg lettuce",
+          "ing_4": "Sour cream, coriander leaves, thinly sliced radish (we used watermelon radishes), and lime wedges, to serve",
+          "ing_5": "Juice of 1/2 a lime",
+          "cooking_method": "For the guacamole, whiz all ingredients in a food processor until smooth. Cover surface with plastic wrap and chill until needed.For the pico de gallo, combine all ingredients in a bowl. Chill until needed.Heat a chargrill pan or barbecue to high heat. Add beef and grill, turning every 10 seconds, for 10-11 minutes for medium-rare (a meat thermometer inserted into the centre will read 54°C), or until cooked to your liking. Transfer to a plate and set aside, loosely covered with foil, for 10 minutes to rest.",
+          "rating": 4.3
+        },
+        {
+          "id": 3,
+          "recipe_name": "Grilled corn with manchego, lime and paprika",
+          "ing_1": "4 corn cobs, husks removed",
+          "ing_2": "Juice of 1 lime",
+          "ing_3": "2 tbs almond nut butter, warmed",
+          "ing_4": "1 tsp smoked paprika (pimenton)",
+          "ing_5": "100g manchego cheese",
+          "cooking_method": "Blanch corn in boiling, salted water for 5 minutes or until tender.Heat a chargrill pan or barbecue to high heat. Add corn to pan and cook, turning, for 10 minutes or until charred. Squeeze over lime juice.Remove corn from grill and spoon over nut butter. Scatter with paprika and grate over manchego. Season, then serve hot.",
+          "rating": 3.7
+        }
+      ]
+    },
+    {
+      "_id": "64527e76157d4d542b17ee2f",
+      "chef_name": "Édgar Núñez i Magaña",
+      "chef_bio": "Chef Édgar Núñez represents everything that Mexico City loves in a great fine dining chef.He is a local kid who went abroad and succeeded in the top kitchens in Europe before returning home to Mexico. His places consistently rank as some of the best Latin American restaurants, and the best restaurants in the world. Núñez is developing a culinary style he calls cocina vegetal mexicana (Mexican vegetable cuisine).",
+      "chef_img": "https://i.ibb.co/mtkD95G/313744387-156359713758392-341882523742354059-n.jpg",
+      "experiences": 4,
+      "number_of_recipe": 9,
+      "likes": 879,
+      "recipe": [
+        {
+          "id": 1,
+          "recipe_name": "Spicy chicken empanadas",
+          "ing_1": "1 tbs olive oil",
+          "ing_2": "1 chorizo, finely chopped",
+          "ing_3": "1 onion, chopped",
+          "ing_4": "2 garlic cloves, finely chopped",
+          "ing_5": "350g chicken mince",
+          "cooking_method": "For the pastry, whiz flour, lard and a pinch of salt in a food processor until just combined. Add egg and 2/3 cup (165ml) warm water and whiz until mixture comes together in a smooth ball.For the pastry, whiz flour, lard and a pinch of salt in a food processor until just combined. Add egg and 2/3 cup (165ml) warm water and whiz until mixture comes together in a smooth ball.Enclose pastry in plastic wrap and chill for 30 minutes. Meanwhile, for the filling, heat oil in a frypan over medium heat.Add chorizo, onion and garlic, and cook, stirring, for 3-4 minutes until softened.",
+          "rating": 4.7
+        },
+        {
+          "id": 2,
+          "recipe_name": "Broccoli, lemon and cottage cheese quesadillas",
+          "ing_1": "1 small head broccoli (about 140g)",
+          "ing_2": "2 spring onions, thinly sliced, plus extra shredded spring onion to serve",
+          "ing_3": "1 cup (200g) cottage cheese",
+          "ing_4": "1 cup (120g) grated cheddar",
+          "ing_5": "Finely grated zest of 1/2 a lemon, plus lemon wedges to serve",
+          "cooking_method": "Preheat oven to 200°C.Cook broccoli in salted, boiling water for 5 minutes or until tender. Drain well and pat dry with paper towel. Roughly chop florets, discarding tough stalks.Place in a bowl with spring onion, cottage cheese, cheddar, lemon zest and egg. Season, and stir to combine.Lightly spray a non-stick ovenproof frypan with oil.Transfer to oven and cook for 5 minutes or until cheese is melted. Remove from pan. Repeat with remaining tortillas and broccoli mixture.Cut into wedges and scatter with alfalfa and extra spring onion. Serve with lemon wedges.",
+          "rating": 4.3
+        },
+        {
+          "id": 3,
+          "recipe_name": "Chilli con carne with spiced guacamole",
+          "ing_1": "2 tbs olive oil",
+          "ing_2": "1 onion, finely chopped",
+          "ing_3": "1 onion, finely chopped",
+          "ing_4": "500g lean beef mince",
+          "ing_5": "2 chillies in adobo sauce, chopped, plus 2 tbs adobo sauce",
+          "cooking_method": "Heat oil in a large saucepan over medium heat. Add onion and cook, stirring, for 2-3 minutes until softened.Add garlic and cook for 1 minute or until fragrant.Add beef and cook, breaking up with a spoon, for 2-3 minutes until browned.Add the chopped chillies, tomato paste, cumin and paprika, and cook, stirring, for a further 1 minute or until fragrant.Add the stock and chopped tomatoes. Season and bring to a simmer, reduce heat to low and cook for 25-30 minutes until reduced. Add beans and stir to warm through.",
+          "rating": 3.7
+        }
+      ]
+    },
+    {
+      "_id": "64527e76439cc1518d0a7632",
+      "chef_name": "Mónica Patiño",
+      "chef_bio": "Chef Mónica Patiño is old school. She traveled the world studying culinary arts in Paris and Bangkok before it was cool to do so. In 1978, she opened her first restaurant, La Taberna del León, in Valle de Bravo and has gone on to open a small empire of restaurants in Mexico City. Patiño has been a mainstay on television and food festivals promoting famous Mexican food to local and international audiences alike.",
+      "chef_img": "https://i.ibb.co/nfhG7cj/164512600-274657560949535-945803221343142935-n.jpg",
+      "experiences": 10,
+      "number_of_recipe": 6,
+      "likes": "12K",
+      "recipe": [
+        {
+          "id": 1,
+          "recipe_name": "Tuna tostadas with jalapeno guacamole",
+          "ing_1": "4 lemons, sliced, plus wedges to serve",
+          "ing_2": "6cm piece ginger, thinly sliced",
+          "ing_3": "2 garlic cloves, thinly sliced",
+          "ing_4": "2 long red chillies, sliced",
+          "ing_5": "1 cup coriander leaves, plus extra to serve",
+          "cooking_method": "Preheat a barbecue or chargrill to high.Place 2 sheets of foil on a workbench and top each with a sheet of baking paper.Divide half the lemon slices, ginger, garlic, chilli, coriander and oil between the paper and top with the fish. Cover with remaining lemon slices, ginger, garlic, chilli, coriander and oil, then season. Seal the parcels and cook on the barbecue for 25-30 minutes until cooked.Open the parcels and top with spring onion, herbs and lemon wedges.",
+          "rating": 4.3
+        },
+        {
+          "id": 2,
+          "recipe_name": "This tomato vodka rigatoni will put you in good spirits",
+          "ing_1": "1/4 cup (60ml) extra virgin olive oil",
+          "ing_2": "1 onion, finely chopped",
+          "ing_3": "4 garlic cloves, thinly sliced",
+          "ing_4": "3/4 cup (210g) tomato paste",
+          "ing_5": "400g rigatoni, cooked to packet instructions, 1/4 cup (60ml) cooking water reserved",
+          "cooking_method": "Heat oil in a large non-stick frypan over medium heat. Add onion and garlic, and cook, stirring, for 5-6 minutes until softened. Add tomato paste and stir for 2 minutes or until lightly caramelised.Add vodka and cook for 4-5 minutes. Stir in cream, parmesan and 1/4 cup (60ml) reserved cooking water, and bring to a simmer. Remove from the heat and season to taste. Stir through rigatoni to coat in the sauce then serve immediately.",
+          "rating": 4.5
+        },
+        {
+          "id": 3,
+          "recipe_name": "Minty lamb with beetroot and charred broccoli",
+          "ing_1": "1/2 bunch mint, leaves chopped",
+          "ing_2": "1/2 bunch flat-leaf parsley, leaves chopped",
+          "ing_3": "1/4 cup (40g) pine nuts, toasted",
+          "ing_4": "2 tbs grated parmesan",
+          "ing_5": "1 Kurrawong Organics broccoli, sliced lengthways",
+          "cooking_method": "Whiz the fresh mint, parsley, pine nuts, parmesan and garlic in a food processor until a paste. Gradually add 1/2 cup (125ml) oil and whiz until combined. Set aside.Cook broccoli, turning, for 3-4 minutes until lightly charred. Set aside. Cook lamb for 4 minutes each side for medium-rare or until cooked to your liking.Cook broccoli, turning, for 3-4 minutes until lightly charred. Set aside. Cook lamb for 4 minutes each side for medium-rare or until cooked to your liking.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "_id": "64527e7629d9c35e62f7a944",
+      "chef_name": "Ricardo Muñoz Zurita",
+      "chef_bio": "Chef Ricardo Muñoz Zurita is an intellectual and a chef. Not only does he own and operate Azul Restaurantes, one of the best restaurant groups in Mexico City, he writes the books that define a lot of Mexican culinary history. When visiting CDMX, you must add Azul Centro Historico to your itinerary. Located in the heart of Downtown Mexico City in Centro Historico (Historic Downtown), the building and restaurant’s aesthetics are as well known as the Mexico chef who runs it.",
+      "chef_img": "https://i.ibb.co/L9qd7ck/317841634-162313329832351-4229455469017450347-n.jpg",
+      "experiences": 8,
+      "number_of_recipe": 6,
+      "likes": 980,
+      "recipe": [
+        {
+          "id": 1,
+          "recipe_name": "Sardines stuffed with kale, pine nuts and raisins",
+          "ing_1": "2 cups (50g) shredded kale",
+          "ing_2": "2 tbs each raisins and pine nuts",
+          "ing_3": "1 garlic clove, crushed",
+          "ing_4": "Finely grated zest of 1/2 lemon, plus 2 lemons, halved",
+          "ing_5": "2 (600g) sweet potatoes, peeled, cut into 8mm matchsticks",
+          "cooking_method": "Preheat the oven to 200°C. Place the kale in a heatproof bowl and cover with 1 cup (250ml) boiling water. Stand for 1 minute, then drain and refresh under cold running water. Squeeze to remove excess liquid. Transfer to a large chopping board, or food processor with raisins, pine nuts, garlic and lemon zest, and roughly chop, tossing to combine. Stuff sardine cavities with kale mixture, then place on a baking paper-lined baking tray. Set aside.Serve sardines with sweet potato fries and chargrilled lemons to squeeze over.",
+          "rating": 3.8
+        },
+        {
+          "id": 2,
+          "recipe_name": "Tacos de Carne Asada",
+          "ing_1": "2 x 400g rib-eye steaks (bone in), at room temperature",
+          "ing_2": "8 white corn tortillas",
+          "ing_3": "1/2 cup shredded iceberg lettuce",
+          "ing_4": "1 small red chilli, chopped",
+          "ing_5": "1/2 small garlic clove, chopped",
+          "cooking_method": "For the guacamole, whiz all ingredients in a food processor until smooth. Cover surface with plastic wrap and chill until needed.Heat a chargrill pan or barbecue to high heat. Add beef and grill, turning every 10 seconds, for 10-11 minutes for medium-rare (a meat thermometer inserted into the centre will read 54°C), or until cooked to your liking. Transfer to a plate and set aside, loosely covered with foil, for 10 minutes to rest.Spread warm tortillas with guacamole and top with sliced beef, lettuce, pico de gallo and sour cream. Add coriander and radish, and serve with lime wedges.",
+          "rating": 4.2
+        },
+        {
+          "id": 3,
+          "recipe_name": "Mexican meatball subs",
+          "ing_1": "1 pack taco seasoning mixture",
+          "ing_2": "1kg pork and veal mince",
+          "ing_3": "1 egg, whisked",
+          "ing_4": "3/4 cup (50g) fresh breadcrumbs",
+          "ing_5": "120ml extra virgin olive oil",
+          "cooking_method": "Reserve 1 tsp taco seasoning, then combine remaining with minces, egg, breadcrumbs, parsley and season. Form into meatballs using 1 tbs mixture and chill for 30 minutes. Heat 2 tbs oil in a large frypan over medium-high heat. Add half the meatballs and cook for 8-10 minutes, turning, until cooked through. Repeat with remaining balls and oil. Set aside 8 meatballs, some sauce and remaining ingredients for the subs for lunch. Serve meatballs for dinner with avocado, coriander, lime and sour cream.",
+          "rating": 4.9
+        }
+      ]
+    }
+  ]
